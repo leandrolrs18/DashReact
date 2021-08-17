@@ -1,0 +1,24 @@
+
+{
+    "productRows" : [
+      {
+        "id": 1,
+        "serviço": "Crédito imobiliário",
+        "img":
+          "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "mês": "jan",
+        "status": "ativo",
+        "preço": "R$12.000"
+      },
+      {
+        "id": 2,
+        "serviço": "Crédito Veicular",
+        "img":
+          "https://images.pexels.com/photos/7156886/pexels-photo-7156886.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "mês": "fev",
+        "status": "ativo",
+        "preço": "R$15.000"
+      }
+  
+    ]
+}
